@@ -1,0 +1,9 @@
+# Optional dependencies for the original Spark and training notebooks
+pyspark==3.3.2
+datasets
+accelerate
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+jupyterlab

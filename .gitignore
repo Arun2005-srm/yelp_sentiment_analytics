@@ -1,0 +1,14 @@
+/data
+/docs
+/spark-temp
+/hf-cachenode_modules/
+.venv/
+.runtime/
+data/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+# Retain the copied training outputs and model assets in this delivered project.
+*.log

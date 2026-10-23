@@ -1,0 +1,19 @@
+{
+  "model": "distilbert-base-uncased",
+  "max_length": 512,
+  "batch_size": 8,
+  "epochs": 3,
+  "learning_rate": 2e-05,
+  "val": {
+    "loss": 0.2525,
+    "accuracy": 0.9236,
+    "f1_weighted": 0.9209,
+    "f1_macro": 0.8315
+  },
+  "test": {
+    "loss": 0.2525,
+    "accuracy": 0.9235,
+    "f1_weighted": 0.9207,
+    "f1_macro": 0.8312
+  }
+}
